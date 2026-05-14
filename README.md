@@ -1,41 +1,35 @@
-# Java Full Stack Learning 
+# Java Full Stack Learning
 
-This repository contains complete Java Full Stack learning concepts, coding practice, interview preparation, and real-time projects.
+This repository contains complete Java Full Stack learning concepts, coding practice, interview preparation, and real-time project implementation for beginners to advanced developers.
+
+---
 
 # Technologies Covered
 
-* Core Java
-* Advanced Java
-* JDBC
-* Servlet & JSP
-* Hibernate
-* Spring Framework
-* Spring Boot
-* Microservices
-* SQL
-* Git & GitHub
-* Data Structures & Algorithms
-# Projects Included
-* Library Management System
-* Hotel Management System
-* Employee Management System
-* Inventory Management System
-# Tools & Technologies
-* Java 17
-* Eclipse
-* VS Code
-* MySQL
-* Git
-* GitHub
-* Maven
+- Core Java
+- Advanced Java
+- JDBC
+- Servlet & JSP
+- Hibernate
+- Spring Framework
+- Spring Boot
+- Microservices
+- SQL
+- Git & GitHub
+- Maven
+- Data Structures & Algorithms
+
+---
+
 # Goal
+
 To become an industry-ready Java Full Stack Developer through hands-on coding and real-time project implementation.
-# javaFullstackLearning
-Complete Java Full Stack learning repository covering Core Java, Advanced Java, JDBC, Hibernate, Spring Boot, Microservices, SQL, DSA, interview questions, and real-time projects with industry-level coding practices.
 
+---
 
-
-# java-fullstack-learning
+# Project Structure
+```text
+java-fullstack-learning
 │
 ├── 01-core-java
 │   ├── variables
@@ -78,15 +72,10 @@ Complete Java Full Stack learning repository covering Core Java, Advanced Java, 
 │   └── interview-questions
 │
 ├── 04-jdbc
-│
 ├── 05-servlet-jsp
-│
 ├── 06-hibernate
-│
 ├── 07-spring
-│
 ├── 08-spring-boot
-│
 ├── 09-microservices
 │
 ├── 10-projects
@@ -96,9 +85,43 @@ Complete Java Full Stack learning repository covering Core Java, Advanced Java, 
 │   └── inventory-management-system
 │
 ├── screenshots
-│
 ├── notes
-│
 ├── README.md
-│
 └── .gitignore
+```
+
+---
+
+# Projects Included
+
+- Library Management System
+- Hotel Management System
+- Employee Management System
+- Inventory Management System
+
+---
+
+# Tools & Software
+
+- Java 17
+- Eclipse IDE
+- VS Code
+- MySQL
+- Git
+- GitHub
+- Maven
+
+---
+
+# Features
+
+- Beginner to Advanced Java Concepts
+- Real-Time Projects
+- Interview Questions
+- Coding Practice
+- Industry-Level Folder Structure
+- Clean and Understandable Code
+
+
+
+
